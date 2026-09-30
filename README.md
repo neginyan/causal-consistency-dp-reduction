@@ -5,7 +5,8 @@
 Verification code for the manuscript
 
 > T. Namba, *Causal Consistency of Diósi–Penrose Reduction and a
-> Profile-Independent Mass Scale $M_P/\sqrt{2}$* (2026).
+> Profile-Independent Mass Scale $M_P/\sqrt{2}$*, preprint (2026),
+> [doi:10.5281/zenodo.23064513](https://doi.org/10.5281/zenodo.23064513).
 
 Every analytical statement, number, table and figure of the paper is checked
 by the scripts in this repository.
@@ -167,7 +168,12 @@ These are part of the development of the analysis and are not used in the paper.
 
 ## How to cite
 
-If you use this code, please cite the archived version:
+Please cite the paper,
+
+> T. Namba, *Causal Consistency of Diósi–Penrose Reduction and a Profile-Independent
+> Mass Scale $M_P/\sqrt{2}$*, preprint (2026), [doi:10.5281/zenodo.23064513](https://doi.org/10.5281/zenodo.23064513),
+
+and, if you use this code, the archived version:
 
 > T. Namba, *causal-consistency-dp-reduction: verification code*, version v1.0.0,
 > Zenodo (2026), [doi:10.5281/zenodo.23064101](https://doi.org/10.5281/zenodo.23064101).

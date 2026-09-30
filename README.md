@@ -1,5 +1,7 @@
 # Causal Consistency of Diósi–Penrose Reduction and a Profile-Independent Mass Scale $M_P/\sqrt2$
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23064101.svg)](https://doi.org/10.5281/zenodo.23064101)
+
 Verification code for the manuscript
 
 > T. Namba, *Causal Consistency of Diósi–Penrose Reduction and a
@@ -162,6 +164,13 @@ These are part of the development of the analysis and are not used in the paper.
   why this cannot be read as the switch-on deficit of the full branch difference.
 - Figures `supp_fig1_static_overlap.png` and `supp_fig2_retarded_gaussian.png` illustrate these
   supplementary checks; the `fig_sec*` figures illustrate the corresponding sections of the paper.
+
+## How to cite
+
+If you use this code, please cite the archived version:
+
+> T. Namba, *causal-consistency-dp-reduction: verification code*, version v1.0.0,
+> Zenodo (2026), [doi:10.5281/zenodo.23064101](https://doi.org/10.5281/zenodo.23064101).
 
 ## Acknowledgment
 

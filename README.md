@@ -1,6 +1,6 @@
 # Causal Consistency of Diósi–Penrose Reduction and a Profile-Independent Mass Scale $M_P/\sqrt2$
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23064101.svg)](https://doi.org/10.5281/zenodo.23064101)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23064101.svg)](https://doi.org/10.5281/zenodo.23064101)[![Verification](https://github.com/neginyan/causal-consistency-dp-reduction/actions/workflows/verify.yml/badge.svg)](https://github.com/neginyan/causal-consistency-dp-reduction/actions/workflows/verify.yml)
 
 Verification code for the manuscript
 
